@@ -1,0 +1,7 @@
+fastapi[standard]
+uvicorn
+python-multipart
+transformers
+torch
+docx2txt
+PyMuPDF
