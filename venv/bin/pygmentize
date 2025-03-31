@@ -1,4 +1,4 @@
-#!/Users/manoj/Documents/Github/resume-parser-NLP/venv/bin/python
+#!/Users/manoj/Documents/Github/resume-parser-NLP/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
